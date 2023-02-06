@@ -1,0 +1,23 @@
+.one{
+    width: 100%;
+    border: dotted black 2px;
+    height: 400px;
+    background-image: url("0.jfif");
+    background-size: auto;
+}
+.onee{
+    position: absolute;
+    top :200px;
+    left: 10px;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+}
+.twoo{
+    position: absolute;
+    top: 200px;
+    right: 10px;
+    font-size: larger;
+    font-weight: bold;
+    cursor: pointer;
+}
